@@ -11,6 +11,6 @@ This is an  example code colletions about cpp design pattons
 
 ## how to contract me 
 
--email:dinggl9367@163c.om
+- email:dinggl9367@163c.om
 
 
