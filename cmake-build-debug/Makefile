@@ -123,113 +123,59 @@ my_cpp_designPattons/fast:
 	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/build
 .PHONY : my_cpp_designPattons/fast
 
-structural_model/Composite/Book.o: structural_model/Composite/Book.cpp.o
+behavior_model/stragety/main.o: behavior_model/stragety/main.cpp.o
 
-.PHONY : structural_model/Composite/Book.o
-
-# target to build an object file
-structural_model/Composite/Book.cpp.o:
-	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/structural_model/Composite/Book.cpp.o
-.PHONY : structural_model/Composite/Book.cpp.o
-
-structural_model/Composite/Book.i: structural_model/Composite/Book.cpp.i
-
-.PHONY : structural_model/Composite/Book.i
-
-# target to preprocess a source file
-structural_model/Composite/Book.cpp.i:
-	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/structural_model/Composite/Book.cpp.i
-.PHONY : structural_model/Composite/Book.cpp.i
-
-structural_model/Composite/Book.s: structural_model/Composite/Book.cpp.s
-
-.PHONY : structural_model/Composite/Book.s
-
-# target to generate assembly for a file
-structural_model/Composite/Book.cpp.s:
-	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/structural_model/Composite/Book.cpp.s
-.PHONY : structural_model/Composite/Book.cpp.s
-
-structural_model/Composite/BookGroup.o: structural_model/Composite/BookGroup.cpp.o
-
-.PHONY : structural_model/Composite/BookGroup.o
+.PHONY : behavior_model/stragety/main.o
 
 # target to build an object file
-structural_model/Composite/BookGroup.cpp.o:
-	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/structural_model/Composite/BookGroup.cpp.o
-.PHONY : structural_model/Composite/BookGroup.cpp.o
+behavior_model/stragety/main.cpp.o:
+	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/behavior_model/stragety/main.cpp.o
+.PHONY : behavior_model/stragety/main.cpp.o
 
-structural_model/Composite/BookGroup.i: structural_model/Composite/BookGroup.cpp.i
+behavior_model/stragety/main.i: behavior_model/stragety/main.cpp.i
 
-.PHONY : structural_model/Composite/BookGroup.i
+.PHONY : behavior_model/stragety/main.i
 
 # target to preprocess a source file
-structural_model/Composite/BookGroup.cpp.i:
-	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/structural_model/Composite/BookGroup.cpp.i
-.PHONY : structural_model/Composite/BookGroup.cpp.i
+behavior_model/stragety/main.cpp.i:
+	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/behavior_model/stragety/main.cpp.i
+.PHONY : behavior_model/stragety/main.cpp.i
 
-structural_model/Composite/BookGroup.s: structural_model/Composite/BookGroup.cpp.s
+behavior_model/stragety/main.s: behavior_model/stragety/main.cpp.s
 
-.PHONY : structural_model/Composite/BookGroup.s
+.PHONY : behavior_model/stragety/main.s
 
 # target to generate assembly for a file
-structural_model/Composite/BookGroup.cpp.s:
-	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/structural_model/Composite/BookGroup.cpp.s
-.PHONY : structural_model/Composite/BookGroup.cpp.s
+behavior_model/stragety/main.cpp.s:
+	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/behavior_model/stragety/main.cpp.s
+.PHONY : behavior_model/stragety/main.cpp.s
 
-structural_model/Composite/librarain.o: structural_model/Composite/librarain.cpp.o
+behavior_model/stragety/stragety.o: behavior_model/stragety/stragety.cpp.o
 
-.PHONY : structural_model/Composite/librarain.o
+.PHONY : behavior_model/stragety/stragety.o
 
 # target to build an object file
-structural_model/Composite/librarain.cpp.o:
-	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/structural_model/Composite/librarain.cpp.o
-.PHONY : structural_model/Composite/librarain.cpp.o
+behavior_model/stragety/stragety.cpp.o:
+	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/behavior_model/stragety/stragety.cpp.o
+.PHONY : behavior_model/stragety/stragety.cpp.o
 
-structural_model/Composite/librarain.i: structural_model/Composite/librarain.cpp.i
+behavior_model/stragety/stragety.i: behavior_model/stragety/stragety.cpp.i
 
-.PHONY : structural_model/Composite/librarain.i
-
-# target to preprocess a source file
-structural_model/Composite/librarain.cpp.i:
-	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/structural_model/Composite/librarain.cpp.i
-.PHONY : structural_model/Composite/librarain.cpp.i
-
-structural_model/Composite/librarain.s: structural_model/Composite/librarain.cpp.s
-
-.PHONY : structural_model/Composite/librarain.s
-
-# target to generate assembly for a file
-structural_model/Composite/librarain.cpp.s:
-	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/structural_model/Composite/librarain.cpp.s
-.PHONY : structural_model/Composite/librarain.cpp.s
-
-structural_model/Composite/main.o: structural_model/Composite/main.cpp.o
-
-.PHONY : structural_model/Composite/main.o
-
-# target to build an object file
-structural_model/Composite/main.cpp.o:
-	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/structural_model/Composite/main.cpp.o
-.PHONY : structural_model/Composite/main.cpp.o
-
-structural_model/Composite/main.i: structural_model/Composite/main.cpp.i
-
-.PHONY : structural_model/Composite/main.i
+.PHONY : behavior_model/stragety/stragety.i
 
 # target to preprocess a source file
-structural_model/Composite/main.cpp.i:
-	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/structural_model/Composite/main.cpp.i
-.PHONY : structural_model/Composite/main.cpp.i
+behavior_model/stragety/stragety.cpp.i:
+	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/behavior_model/stragety/stragety.cpp.i
+.PHONY : behavior_model/stragety/stragety.cpp.i
 
-structural_model/Composite/main.s: structural_model/Composite/main.cpp.s
+behavior_model/stragety/stragety.s: behavior_model/stragety/stragety.cpp.s
 
-.PHONY : structural_model/Composite/main.s
+.PHONY : behavior_model/stragety/stragety.s
 
 # target to generate assembly for a file
-structural_model/Composite/main.cpp.s:
-	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/structural_model/Composite/main.cpp.s
-.PHONY : structural_model/Composite/main.cpp.s
+behavior_model/stragety/stragety.cpp.s:
+	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/behavior_model/stragety/stragety.cpp.s
+.PHONY : behavior_model/stragety/stragety.cpp.s
 
 # Help Target
 help:
@@ -240,18 +186,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... my_cpp_designPattons"
 	@echo "... edit_cache"
-	@echo "... structural_model/Composite/Book.o"
-	@echo "... structural_model/Composite/Book.i"
-	@echo "... structural_model/Composite/Book.s"
-	@echo "... structural_model/Composite/BookGroup.o"
-	@echo "... structural_model/Composite/BookGroup.i"
-	@echo "... structural_model/Composite/BookGroup.s"
-	@echo "... structural_model/Composite/librarain.o"
-	@echo "... structural_model/Composite/librarain.i"
-	@echo "... structural_model/Composite/librarain.s"
-	@echo "... structural_model/Composite/main.o"
-	@echo "... structural_model/Composite/main.i"
-	@echo "... structural_model/Composite/main.s"
+	@echo "... behavior_model/stragety/main.o"
+	@echo "... behavior_model/stragety/main.i"
+	@echo "... behavior_model/stragety/main.s"
+	@echo "... behavior_model/stragety/stragety.o"
+	@echo "... behavior_model/stragety/stragety.i"
+	@echo "... behavior_model/stragety/stragety.s"
 .PHONY : help
 
 

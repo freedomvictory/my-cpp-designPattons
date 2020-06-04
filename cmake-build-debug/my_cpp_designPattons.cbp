@@ -84,28 +84,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/Book.cpp">
+		<Unit filename="/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/behavior_model/stragety/main.cpp">
 			<Option target="my_cpp_designPattons"/>
 		</Unit>
-		<Unit filename="/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/Book.h">
+		<Unit filename="/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/behavior_model/stragety/stragety.cpp">
 			<Option target="my_cpp_designPattons"/>
 		</Unit>
-		<Unit filename="/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/BookComponent.h">
-			<Option target="my_cpp_designPattons"/>
-		</Unit>
-		<Unit filename="/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/BookGroup.cpp">
-			<Option target="my_cpp_designPattons"/>
-		</Unit>
-		<Unit filename="/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/BookGroup.h">
-			<Option target="my_cpp_designPattons"/>
-		</Unit>
-		<Unit filename="/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/librarain.cpp">
-			<Option target="my_cpp_designPattons"/>
-		</Unit>
-		<Unit filename="/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/librarain.h">
-			<Option target="my_cpp_designPattons"/>
-		</Unit>
-		<Unit filename="/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/main.cpp">
+		<Unit filename="/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/behavior_model/stragety/stragety.h">
 			<Option target="my_cpp_designPattons"/>
 		</Unit>
 		<Unit filename="/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/CMakeLists.txt">

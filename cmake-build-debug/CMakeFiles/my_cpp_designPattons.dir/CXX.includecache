@@ -6,47 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/Book.cpp
-Book.h
-/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/Book.h
+/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/behavior_model/stragety/stragety.cpp
+stragety.h
+/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/behavior_model/stragety/stragety.h
 
-/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/Book.h
-BookComponent.h
-/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/BookComponent.h
+/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/behavior_model/stragety/stragety.h
 iostream
 -
-
-/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/BookComponent.h
-
-/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/BookGroup.cpp
-BookGroup.h
-/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/BookGroup.h
-
-/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/BookGroup.h
-BookComponent.h
-/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/BookComponent.h
 vector
 -
-iostream
+algorithm
 -
-
-/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/librarain.cpp
-librarain.h
-/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/librarain.h
-BookGroup.h
-/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/BookGroup.h
-Book.h
-/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/Book.h
-
-/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/librarain.h
-BookComponent.h
-/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/BookComponent.h
-iostream
--
-
-/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/main.cpp
-iostream
--
-librarain.h
-/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Composite/librarain.h
 

@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/my_cpp_designPattons.dir/structural_model/Composite/main.cpp.o"
-  "CMakeFiles/my_cpp_designPattons.dir/structural_model/Composite/Book.cpp.o"
-  "CMakeFiles/my_cpp_designPattons.dir/structural_model/Composite/BookGroup.cpp.o"
-  "CMakeFiles/my_cpp_designPattons.dir/structural_model/Composite/librarain.cpp.o"
+  "CMakeFiles/my_cpp_designPattons.dir/behavior_model/stragety/main.cpp.o"
+  "CMakeFiles/my_cpp_designPattons.dir/behavior_model/stragety/stragety.cpp.o"
   "my_cpp_designPattons.pdb"
   "my_cpp_designPattons"
 )
