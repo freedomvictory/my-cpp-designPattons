@@ -84,13 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/behavior_model/stragety/main.cpp">
-			<Option target="my_cpp_designPattons"/>
-		</Unit>
-		<Unit filename="/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/behavior_model/stragety/stragety.cpp">
-			<Option target="my_cpp_designPattons"/>
-		</Unit>
-		<Unit filename="/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/behavior_model/stragety/stragety.h">
+		<Unit filename="/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Decorator/decorator.cpp">
 			<Option target="my_cpp_designPattons"/>
 		</Unit>
 		<Unit filename="/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/CMakeLists.txt">

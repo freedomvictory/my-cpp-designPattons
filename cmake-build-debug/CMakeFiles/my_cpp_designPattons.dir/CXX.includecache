@@ -6,15 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/behavior_model/stragety/stragety.cpp
-stragety.h
-/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/behavior_model/stragety/stragety.h
-
-/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/behavior_model/stragety/stragety.h
+/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Decorator/decorator.cpp
 iostream
 -
-vector
--
-algorithm
+string
 -
 

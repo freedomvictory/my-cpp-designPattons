@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/my_cpp_designPattons.dir/behavior_model/stragety/main.cpp.o CMakeFiles/my_cpp_designPattons.dir/behavior_model/stragety/stragety.cpp.o  -o my_cpp_designPattons 
+/usr/bin/c++  -g   CMakeFiles/my_cpp_designPattons.dir/structural_model/Decorator/decorator.cpp.o  -o my_cpp_designPattons 

@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/my_cpp_designPattons.dir/behavior_model/stragety/main.cpp.o"
-  "CMakeFiles/my_cpp_designPattons.dir/behavior_model/stragety/stragety.cpp.o"
+  "CMakeFiles/my_cpp_designPattons.dir/structural_model/Decorator/decorator.cpp.o"
   "my_cpp_designPattons.pdb"
   "my_cpp_designPattons"
 )

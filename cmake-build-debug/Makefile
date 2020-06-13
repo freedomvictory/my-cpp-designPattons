@@ -123,59 +123,32 @@ my_cpp_designPattons/fast:
 	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/build
 .PHONY : my_cpp_designPattons/fast
 
-behavior_model/stragety/main.o: behavior_model/stragety/main.cpp.o
+structural_model/Decorator/decorator.o: structural_model/Decorator/decorator.cpp.o
 
-.PHONY : behavior_model/stragety/main.o
-
-# target to build an object file
-behavior_model/stragety/main.cpp.o:
-	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/behavior_model/stragety/main.cpp.o
-.PHONY : behavior_model/stragety/main.cpp.o
-
-behavior_model/stragety/main.i: behavior_model/stragety/main.cpp.i
-
-.PHONY : behavior_model/stragety/main.i
-
-# target to preprocess a source file
-behavior_model/stragety/main.cpp.i:
-	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/behavior_model/stragety/main.cpp.i
-.PHONY : behavior_model/stragety/main.cpp.i
-
-behavior_model/stragety/main.s: behavior_model/stragety/main.cpp.s
-
-.PHONY : behavior_model/stragety/main.s
-
-# target to generate assembly for a file
-behavior_model/stragety/main.cpp.s:
-	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/behavior_model/stragety/main.cpp.s
-.PHONY : behavior_model/stragety/main.cpp.s
-
-behavior_model/stragety/stragety.o: behavior_model/stragety/stragety.cpp.o
-
-.PHONY : behavior_model/stragety/stragety.o
+.PHONY : structural_model/Decorator/decorator.o
 
 # target to build an object file
-behavior_model/stragety/stragety.cpp.o:
-	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/behavior_model/stragety/stragety.cpp.o
-.PHONY : behavior_model/stragety/stragety.cpp.o
+structural_model/Decorator/decorator.cpp.o:
+	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/structural_model/Decorator/decorator.cpp.o
+.PHONY : structural_model/Decorator/decorator.cpp.o
 
-behavior_model/stragety/stragety.i: behavior_model/stragety/stragety.cpp.i
+structural_model/Decorator/decorator.i: structural_model/Decorator/decorator.cpp.i
 
-.PHONY : behavior_model/stragety/stragety.i
+.PHONY : structural_model/Decorator/decorator.i
 
 # target to preprocess a source file
-behavior_model/stragety/stragety.cpp.i:
-	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/behavior_model/stragety/stragety.cpp.i
-.PHONY : behavior_model/stragety/stragety.cpp.i
+structural_model/Decorator/decorator.cpp.i:
+	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/structural_model/Decorator/decorator.cpp.i
+.PHONY : structural_model/Decorator/decorator.cpp.i
 
-behavior_model/stragety/stragety.s: behavior_model/stragety/stragety.cpp.s
+structural_model/Decorator/decorator.s: structural_model/Decorator/decorator.cpp.s
 
-.PHONY : behavior_model/stragety/stragety.s
+.PHONY : structural_model/Decorator/decorator.s
 
 # target to generate assembly for a file
-behavior_model/stragety/stragety.cpp.s:
-	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/behavior_model/stragety/stragety.cpp.s
-.PHONY : behavior_model/stragety/stragety.cpp.s
+structural_model/Decorator/decorator.cpp.s:
+	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/structural_model/Decorator/decorator.cpp.s
+.PHONY : structural_model/Decorator/decorator.cpp.s
 
 # Help Target
 help:
@@ -186,12 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... my_cpp_designPattons"
 	@echo "... edit_cache"
-	@echo "... behavior_model/stragety/main.o"
-	@echo "... behavior_model/stragety/main.i"
-	@echo "... behavior_model/stragety/main.s"
-	@echo "... behavior_model/stragety/stragety.o"
-	@echo "... behavior_model/stragety/stragety.i"
-	@echo "... behavior_model/stragety/stragety.s"
+	@echo "... structural_model/Decorator/decorator.o"
+	@echo "... structural_model/Decorator/decorator.i"
+	@echo "... structural_model/Decorator/decorator.s"
 .PHONY : help
 
 

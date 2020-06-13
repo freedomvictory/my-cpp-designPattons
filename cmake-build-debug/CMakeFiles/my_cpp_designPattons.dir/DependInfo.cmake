@@ -4,8 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/behavior_model/stragety/main.cpp" "/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/cmake-build-debug/CMakeFiles/my_cpp_designPattons.dir/behavior_model/stragety/main.cpp.o"
-  "/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/behavior_model/stragety/stragety.cpp" "/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/cmake-build-debug/CMakeFiles/my_cpp_designPattons.dir/behavior_model/stragety/stragety.cpp.o"
+  "/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Decorator/decorator.cpp" "/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/cmake-build-debug/CMakeFiles/my_cpp_designPattons.dir/structural_model/Decorator/decorator.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
