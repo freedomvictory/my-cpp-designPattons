@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/my_cpp_designPattons.dir/structural_model/Decorator/decorator.cpp.o"
+  "CMakeFiles/my_cpp_designPattons.dir/creation_model/abstract_factory/factoryExample.cpp.o"
   "my_cpp_designPattons.pdb"
   "my_cpp_designPattons"
 )

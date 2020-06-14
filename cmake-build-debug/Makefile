@@ -123,32 +123,32 @@ my_cpp_designPattons/fast:
 	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/build
 .PHONY : my_cpp_designPattons/fast
 
-structural_model/Decorator/decorator.o: structural_model/Decorator/decorator.cpp.o
+creation_model/abstract_factory/factoryExample.o: creation_model/abstract_factory/factoryExample.cpp.o
 
-.PHONY : structural_model/Decorator/decorator.o
+.PHONY : creation_model/abstract_factory/factoryExample.o
 
 # target to build an object file
-structural_model/Decorator/decorator.cpp.o:
-	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/structural_model/Decorator/decorator.cpp.o
-.PHONY : structural_model/Decorator/decorator.cpp.o
+creation_model/abstract_factory/factoryExample.cpp.o:
+	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/creation_model/abstract_factory/factoryExample.cpp.o
+.PHONY : creation_model/abstract_factory/factoryExample.cpp.o
 
-structural_model/Decorator/decorator.i: structural_model/Decorator/decorator.cpp.i
+creation_model/abstract_factory/factoryExample.i: creation_model/abstract_factory/factoryExample.cpp.i
 
-.PHONY : structural_model/Decorator/decorator.i
+.PHONY : creation_model/abstract_factory/factoryExample.i
 
 # target to preprocess a source file
-structural_model/Decorator/decorator.cpp.i:
-	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/structural_model/Decorator/decorator.cpp.i
-.PHONY : structural_model/Decorator/decorator.cpp.i
+creation_model/abstract_factory/factoryExample.cpp.i:
+	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/creation_model/abstract_factory/factoryExample.cpp.i
+.PHONY : creation_model/abstract_factory/factoryExample.cpp.i
 
-structural_model/Decorator/decorator.s: structural_model/Decorator/decorator.cpp.s
+creation_model/abstract_factory/factoryExample.s: creation_model/abstract_factory/factoryExample.cpp.s
 
-.PHONY : structural_model/Decorator/decorator.s
+.PHONY : creation_model/abstract_factory/factoryExample.s
 
 # target to generate assembly for a file
-structural_model/Decorator/decorator.cpp.s:
-	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/structural_model/Decorator/decorator.cpp.s
-.PHONY : structural_model/Decorator/decorator.cpp.s
+creation_model/abstract_factory/factoryExample.cpp.s:
+	$(MAKE) -f CMakeFiles/my_cpp_designPattons.dir/build.make CMakeFiles/my_cpp_designPattons.dir/creation_model/abstract_factory/factoryExample.cpp.s
+.PHONY : creation_model/abstract_factory/factoryExample.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... my_cpp_designPattons"
 	@echo "... edit_cache"
-	@echo "... structural_model/Decorator/decorator.o"
-	@echo "... structural_model/Decorator/decorator.i"
-	@echo "... structural_model/Decorator/decorator.s"
+	@echo "... creation_model/abstract_factory/factoryExample.o"
+	@echo "... creation_model/abstract_factory/factoryExample.i"
+	@echo "... creation_model/abstract_factory/factoryExample.s"
 .PHONY : help
 
 

@@ -6,9 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/structural_model/Decorator/decorator.cpp
+/mnt/d/Documents/code/c++/cpp11_console/my_cpp_designPattons/creation_model/abstract_factory/factoryExample.cpp
 iostream
--
-string
 -
 

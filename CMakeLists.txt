@@ -7,4 +7,6 @@ set(CMAKE_CXX_STANDARD 11)
 
 #add_executable(my_cpp_designPattons behavior_model/stragety/main.cpp behavior_model/stragety/stragety.cpp)
 
-add_executable(my_cpp_designPattons structural_model/Decorator/decorator.cpp)
+#add_executable(my_cpp_designPattons structural_model/Decorator/decorator.cpp)
+
+add_executable(my_cpp_designPattons creation_model/abstract_factory/factoryExample.cpp)
